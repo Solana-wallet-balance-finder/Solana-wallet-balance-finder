@@ -116,3 +116,5 @@ Use these command-line arguments to effectively find and monitor Solana wallet b
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update:  11 June url is active and operational
